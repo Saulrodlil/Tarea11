@@ -1,4 +1,4 @@
-/******************************************************************
+﻿/******************************************************************
 * Description
 *	This the basic register that is used in the register file
 *	1.0
@@ -29,6 +29,6 @@ always@(negedge reset or posedge clk) begin
 	else	
 		if(enable==1)
 			DataOutput<=DataInput;
-end
+end 
 
 endmodule

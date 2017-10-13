@@ -1,4 +1,4 @@
-/******************************************************************
+﻿/******************************************************************
 * Description
 *		This is an AND gate:
 * Version:
@@ -14,7 +14,7 @@ module ANDGate
 (
 	input A,
 	input B,
-	output reg C
+	output reg C 
 );
 
 always@(*)

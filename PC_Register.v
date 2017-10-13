@@ -1,4 +1,4 @@
-/******************************************************************
+﻿/******************************************************************
 * Description
 *	This is a register of 32-bit that corresponds to the PC counter. 
 *	This register does not have an enable signal.
@@ -19,7 +19,7 @@ module PC_Register
 (
 	input clk,
 	input reset,
-	input  [N-1:0] NewPC,
+	input  [N-1:0] NewPC, 
 	
 	
 	output reg [N-1:0] PCValue

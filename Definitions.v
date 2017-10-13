@@ -1,4 +1,4 @@
-/******************************************************************
+﻿/******************************************************************
 * Description
 *	This a file to include all the definitions needed in the compilation process
 * Version:
@@ -15,4 +15,4 @@
 *  process in modelsim. If it is not defined, it allows to synthesize the processor in Quartus II.
 * In order to undefine the constant, it must be commented. Note that the apostrophe is part of the definition*/
 
-//`define MONITORS //Constant definitions
+//`define MONITORS //Constant definitions 

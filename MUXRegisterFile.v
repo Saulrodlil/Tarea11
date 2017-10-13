@@ -18,7 +18,7 @@ module MUXRegisterFile
 	input [N-1:0] Data_9,
 	input [N-1:0] Data_10,
 	input [N-1:0] Data_11,
-	input [N-1:0] Data_12,
+	input [N-1:0] Data_12, 
 	input [N-1:0] Data_13,
 	input [N-1:0] Data_14,
 	input [N-1:0] Data_15,

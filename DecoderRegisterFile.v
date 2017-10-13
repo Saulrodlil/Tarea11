@@ -1,4 +1,4 @@
-/******************************************************************
+﻿/******************************************************************
 * Description
 *	This a decoder used in the register file.
 *	1.0
@@ -13,7 +13,7 @@ module DecoderRegisterFile
 (
 	input [4:0] WriteRegister,
 	output [31:0] SelectRegister
-);
+); 
 reg [31:0] SelectRegister_reg;
 
 always@(*)begin

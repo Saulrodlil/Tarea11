@@ -1,9 +1,9 @@
-/******************************************************************
+﻿/******************************************************************
 * Description
 *	This is the verifaction envioroment ofr testeting the basic MIPS
 *	procesor.
 * Version:
-*	1.0
+*	1.0 
 * Author:
 *	Dr. José Luis Pizano Escalante
 * email:
